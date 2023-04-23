@@ -1,0 +1,7 @@
+# ninja log v5
+3	220	1653395144880472900	CMakeFiles/Listas_doblemente_enlazadas.dir/main.c.o	14a5295a8947759e
+174	385	1653395173389208850	Listas_doblemente_enlazadas	c8820333457b488
+1	174	1653395173190589729	CMakeFiles/Listas_doblemente_enlazadas.dir/librerias/listas.c.o	f6073df345438855
+0	220	1653398019584938296	CMakeFiles/Listas_doblemente_enlazadas.dir/main.c.o	14a5295a8947759e
+4	233	1653398019594213929	CMakeFiles/Listas_doblemente_enlazadas.dir/librerias/listasDE.c.o	f02a61ead0b287e0
+234	427	1653398019793011493	Listas_doblemente_enlazadas	1e524fb369e5952

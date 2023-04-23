@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/C/Guia 7/ejercicio 11/cmake-build-debug/CMakeFiles/ejercicio_11.dir
+/Users/candefagnani/Desktop/C/Guia 7/ejercicio 11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/C/Guia 7/ejercicio 11/cmake-build-debug/CMakeFiles/rebuild_cache.dir

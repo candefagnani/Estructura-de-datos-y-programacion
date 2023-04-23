@@ -1,0 +1,50 @@
+6337 ALCALDE Alan                                      
+Â 5.05 
+4254 ANTUNEZ Patricia                                  
+µ 4.74 
+45794 BONET Isabel                                      
+¹ 5.04 
+30069 BOTELLA Manuel                                    
+Å 5.13 
+16314 CARBALLO Elisa                                    
+ž 4.73 
+34735 CARRETERO Alejandro                               
+® 4.86 
+27783 CASTAñEDA Juliana                                 
+Ï 5.07 
+3920 CISNEROS Isabela                                  
+Ó 5.02 
+30116 DIAZ Juliana                                      
+¢ 5.02 
+27828 ESTEVEZ Adrian                                    
+Õ 5.12 
+36921 FALCON Diego                                      
+ˆ 4.75 
+47430 FARRE Victor                                      
+· 5.21 
+48641 FERRER Isabella                                   
+¬ 4.89 
+40602 GALVAN Viviana                                    
+Å 4.86 
+29920 GONZALO Veronica                                  
+Ï 5.31 
+9062 HOYOS Brenda                                      
+Á 5.18 
+8484 MASCARO Josue                                     
+Ç 5.08 
+22372 OLMEDO Enrique                                    
+Ä 5.09 
+12670 PALACIO Juan                                      
+Ò 4.97 
+19668 REVILLA Guillermo                                 
+å 5.04 
+28756 ROVIRA Benjamin                                   
+É 5.14 
+932 TALAVERA Isabela                                  
+À 5.05 
+22025 TELLO Eduardo                                     
+ç 5.22 
+40336 TIRADO Miriam                                     
+x 4.77 
+17848 YUSTE Joaquin                                     
+Ý 5.06 

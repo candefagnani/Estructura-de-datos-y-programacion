@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/SUPERMERCADO/cmake-build-debug/CMakeFiles/SUPERMERCADO.dir
+/Users/candefagnani/Desktop/SUPERMERCADO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/SUPERMERCADO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

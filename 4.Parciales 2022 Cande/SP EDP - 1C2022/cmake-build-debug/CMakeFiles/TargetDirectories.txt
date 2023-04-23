@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/ESTRUCTURA DE DATOS Y PROGRAMACIÓN/C/parcial/cmake-build-debug/CMakeFiles/parcial.dir
+/Users/candefagnani/Desktop/ESTRUCTURA DE DATOS Y PROGRAMACIÓN/C/parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/ESTRUCTURA DE DATOS Y PROGRAMACIÓN/C/parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+1	80	1652914357951031946	CMakeFiles/ListasNumericas.dir/main.c.o	92ee2f9906ec10c1
+1	170	1652915338618375447	CMakeFiles/ListasNumericas.dir/Users/candefagnani/Desktop/Clase_17_05/librerias/listas.c.o	cdb1a521e90c317a
+143	301	1652913533539230839	ListasNumericas	21d6dade51dc92ba
+2	548	1652986277557166304	CMakeFiles/ListasNumericas.dir/Users/candefagnani/Desktop/Clase_17_05/librerias/pilas.c.o	8e0e431c2fa8a8c0
+1	549	1652986277557163576	CMakeFiles/ListasNumericas.dir/main.c.o	92ee2f9906ec10c1
+549	785	1652986277795592290	ListasNumericas	d57ad6441ba78adb
+1	213	1652986324365586374	CMakeFiles/ListasNumericas.dir/Users/candefagnani/Desktop/Clase_17_05/librerias/listas.c.o	cdb1a521e90c317a
+213	322	1652986324475201297	ListasNumericas	d57ad6441ba78adb
+1	146	1652986363886548733	CMakeFiles/ListasNumericas.dir/Users/candefagnani/Desktop/Clase_17_05/librerias/listas.c.o	cdb1a521e90c317a
+147	260	1652986364001603762	ListasNumericas	d57ad6441ba78adb
+1	153	1652986391489535704	CMakeFiles/ListasNumericas.dir/Users/candefagnani/Desktop/Clase_17_05/librerias/listas.c.o	cdb1a521e90c317a
+153	358	1652986391690941136	ListasNumericas	d57ad6441ba78adb

@@ -1,0 +1,10 @@
+1,11 salames
+2,11 de Queso
+3,Pasto Da Grama
+4,Los Isotopos
+5,Galacticos
+6,Los Borbotones
+7,Mal Saque
+8,Barrilete comico
+9,Real bañil
+10,Fui a la pelota

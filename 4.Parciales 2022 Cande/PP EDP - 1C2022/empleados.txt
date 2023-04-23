@@ -1,0 +1,6 @@
+0001 1.00 Javier Zuligan                                    
+0002 1.00 Ricardo Oresco                                    
+0003 3.50 Ramiro Sanz                                       
+0004 3.50 Victor Lujan                                      
+0005 3.50 Adrian Derimas                                    
+0006 2.50 Pedro Lang                                        

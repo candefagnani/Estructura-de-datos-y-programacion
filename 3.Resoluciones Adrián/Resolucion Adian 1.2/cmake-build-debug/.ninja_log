@@ -1,0 +1,11 @@
+# ninja log v5
+0	1009	1654516509258625446	CMakeFiles/Resolucion_Adian_1_2.dir/main.c.o	31a6369120d1d103
+2	1048	1654516509294571579	CMakeFiles/Resolucion_Adian_1_2.dir/librerias/listas.c.o	c032dc5544a7fd1b
+1048	1243	1654516509493826921	Resolucion_Adian_1_2	34cecc5181222c62
+6	2230	1654518190870725192	CMakeFiles/Resolucion_Adian_1_2.dir/librerias/listas.c.o	c032dc5544a7fd1b
+4	2346	1654518190999651039	CMakeFiles/Resolucion_Adian_1_2.dir/main.c.o	31a6369120d1d103
+2346	2553	1654518191202842351	Resolucion_Adian_1_2	34cecc5181222c62
+1	353	1654518269529696430	CMakeFiles/Resolucion_Adian_1_2.dir/main.c.o	31a6369120d1d103
+353	554	1654518269736361676	Resolucion_Adian_1_2	34cecc5181222c62
+1	631	1654518795511390216	CMakeFiles/Resolucion_Adian_1_2.dir/main.c.o	31a6369120d1d103
+632	810	1654518795692669225	Resolucion_Adian_1_2	34cecc5181222c62

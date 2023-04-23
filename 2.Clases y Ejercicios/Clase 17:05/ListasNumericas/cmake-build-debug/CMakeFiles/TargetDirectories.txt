@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/Clase 17:05/ListasNumericas/cmake-build-debug/CMakeFiles/ListasNumericas.dir
+/Users/candefagnani/Desktop/Clase 17:05/ListasNumericas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/Clase 17:05/ListasNumericas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

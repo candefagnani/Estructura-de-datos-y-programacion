@@ -1,0 +1,18 @@
+# ninja log v5
+443	593	1653914430469245291	ejercicio_11	afd3498e97a7fcda
+1	443	1653914430315259545	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+1	492	1653914391220615556	CMakeFiles/ejercicio_11.dir/main.c.o	f0a08e929c151acc
+0	172	1653914592329958595	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+172	299	1653914592457957494	ejercicio_11	afd3498e97a7fcda
+0	127	1653914613027324705	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+128	241	1653914613142751013	ejercicio_11	afd3498e97a7fcda
+0	187	1653914825346367849	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+188	326	1653914825483469983	ejercicio_11	afd3498e97a7fcda
+1	160	1653914839825688895	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+160	295	1653914839957400475	ejercicio_11	afd3498e97a7fcda
+1	135	1653914928603106362	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+136	227	1653914928696745202	ejercicio_11	afd3498e97a7fcda
+1	170	1653915048096351692	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+171	293	1653915048217181703	ejercicio_11	afd3498e97a7fcda
+0	153	1653915118540620825	CMakeFiles/ejercicio_11.dir/librerias/listasDE.c.o	d8b12ca94a094760
+154	274	1653915118662537817	ejercicio_11	afd3498e97a7fcda

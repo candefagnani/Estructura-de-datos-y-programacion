@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/C/prueba/cmake-build-debug/CMakeFiles/prueba.dir
+/Users/candefagnani/Desktop/C/prueba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/C/prueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

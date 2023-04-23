@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/Guia 9/ejercicio 13/cmake-build-debug/CMakeFiles/ejercicio_13.dir
+/Users/candefagnani/Desktop/Guia 9/ejercicio 13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/Guia 9/ejercicio 13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

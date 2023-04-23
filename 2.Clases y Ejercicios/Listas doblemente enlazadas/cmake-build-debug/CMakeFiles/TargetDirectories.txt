@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/Listas doblemente enlazadas/cmake-build-debug/CMakeFiles/Listas_doblemente_enlazadas.dir
+/Users/candefagnani/Desktop/Listas doblemente enlazadas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/Listas doblemente enlazadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

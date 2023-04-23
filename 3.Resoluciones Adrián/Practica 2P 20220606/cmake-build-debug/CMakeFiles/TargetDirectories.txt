@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/Practica 2P 20220606/cmake-build-debug/CMakeFiles/Practica_2P_20220606.dir
+/Users/candefagnani/Desktop/Practica 2P 20220606/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/Practica 2P 20220606/cmake-build-debug/CMakeFiles/rebuild_cache.dir

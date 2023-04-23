@@ -1,0 +1,3 @@
+/Users/candefagnani/Desktop/C/Guia 8/ej14/cmake-build-debug/CMakeFiles/ej14.dir
+/Users/candefagnani/Desktop/C/Guia 8/ej14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/candefagnani/Desktop/C/Guia 8/ej14/cmake-build-debug/CMakeFiles/rebuild_cache.dir

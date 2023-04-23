@@ -1,0 +1,6 @@
+0001;8000.00;Producto XX1                                      
+0002;12000.00;Producto B7                                       
+0003;9500.00;Producto A2                                       
+0004;9000.00;Producto N1                                       
+0005;15000.00;Producto N2                                       
+0006;9000.00;Producto YZ12                                     

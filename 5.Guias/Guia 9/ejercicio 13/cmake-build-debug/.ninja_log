@@ -1,0 +1,12 @@
+# ninja log v5
+1	120	1653306226949589491	CMakeFiles/ejercicio_13.dir/librerias/pilas.c.o	2ed5c5a578a60354
+0	213	1653306227043556942	CMakeFiles/ejercicio_13.dir/librerias/listas.c.o	30c8a4e28683bff6
+1	87	1653306237191211110	CMakeFiles/ejercicio_13.dir/main.c.o	e56c4ccd998a5444
+87	284	1653306237393067396	ejercicio_13	c2cb3bdfbb54e4c0
+3	142	1653306756982908040	CMakeFiles/ejercicio_13.dir/librerias/pilas.c.o	2ed5c5a578a60354
+1	148	1653306756988254662	CMakeFiles/ejercicio_13.dir/main.c.o	e56c4ccd998a5444
+148	313	1653306757155489433	ejercicio_13	c2cb3bdfbb54e4c0
+1	121	1653306781224333501	CMakeFiles/ejercicio_13.dir/librerias/pilas.c.o	2ed5c5a578a60354
+121	290	1653306781391124579	ejercicio_13	c2cb3bdfbb54e4c0
+1	130	1653306872747367917	CMakeFiles/ejercicio_13.dir/librerias/pilas.c.o	2ed5c5a578a60354
+130	269	1653306872888919800	ejercicio_13	c2cb3bdfbb54e4c0
